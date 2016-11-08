@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tom Cruise</title>
+  <style>
+  body{
+
+
+
+  }
+  </style>
+</head>
+<body>
+<div id='navbar'>
+<a href="">Home</a>
+<a href="page1.html">biography</a>
+<a href="page2.html">movies</a>
+<a href="">about</a>
+
+  <h1>Tom Cruise</h1>
+  <p> Welcome to my website.In this website ill be talking about Tom Cruise. Ill be talking about hes biography, movies and some more things.</p>
+
+    <img src="http://mediamass.net/jdd/public/documents/celebrities/333.jpg" /></a>
+</body> 
+</html>
